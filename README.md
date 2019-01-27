@@ -1,6 +1,11 @@
 # Device Sideloading Android
 Final Project in CS10
 
+---
+
+# Developing in Androi: Resources, Exemplars, and Examples
+
+Teacher Only Files: <a href="https://drive.google.com/drive/folders/1BE18BxXR0JU8w9lnIFvAqntXuChsK2Jo">See Mr. Mercer</a>
 
 ---
 
