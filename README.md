@@ -3,7 +3,7 @@ Final Project in CS10
 
 ---
 
-# Developing in Androi: Resources, Exemplars, and Examples
+# Developing in Android: Resources, Exemplars, and Examples
 
 Teacher Only Files: <a href="https://drive.google.com/drive/folders/1BE18BxXR0JU8w9lnIFvAqntXuChsK2Jo">See Mr. Mercer</a>
 
@@ -21,7 +21,7 @@ Progressions
 - CS10: Drawing program with background changes
 - CS20: Tic Tac Toe
 - CS30: Pong
-- Pure Java, messanging program
+- Pure Java, messaging program
 - Android-specific like Android Studio
 - Google Play Account
 
