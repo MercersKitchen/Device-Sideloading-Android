@@ -36,7 +36,9 @@ CAUTION: this installation has a few steps and should be done last
 Note: JDK Version from Oracle should be already installed or verified, reference above
 
 Program Installation Overview
-- Processing: processing-3.3.7-windows64.zip, https://processing.org/download/, 20180614
+- Processing: processing-3.5.4-windows64.zip, https://processing.org/download/, 20200416
+
+Optional Installation (Note Necessary for Processing Right Now, 20200416)
 - Android Studio (Uses Pure Java, CS30), https://developer.android.com/studio/
   - NOTE: Android Studio's SDK GUI Manager made Processing Installation easier, not necessary as of 20180614
   - When installing SDK, update JDK and Manager for KitKat, Android 4.4 (most legacy that is tested to work)
@@ -55,9 +57,11 @@ Customize Processing Java & Android (Download Packages using Contribution Manage
   - Note: all libraries have instructions available on Processing.org/reference
   - Ketai (http://ketai.org/, text available from Pragmatic Book Shelf, "Rapid Android Development")
   - Minim (http://code.compartmental.net/minim/, additional YouTube Videos, etc. are available)
+    - Currently the Sound Library since "Sound" is not supported in Windows 10, 20200416
   - OpenCV (https://opencv.org/)
   - Interfascia (http://interfascia.berg.industries/)
   - Sound (Built in Processing Library: https://processing.org/reference/libraries/sound/)
+    - Currently not supported in Windows 10, DO NOT USE (use Minim instead), 20200416
 - Modes to Add: Android Mode (note: requires Processing 3.3.7, 20180613)
 - Tools to Add
   - Git Manager
