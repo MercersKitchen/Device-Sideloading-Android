@@ -1,6 +1,8 @@
 # Device Sideloading Android
 Final Project in CS10
 
+**UNDERCONSTRUCTION**: review multiple ReadMe Files and Test
+
 ---
 
 # Developing in Android: Resources, Exemplars, and Examples
