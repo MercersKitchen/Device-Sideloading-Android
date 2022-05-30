@@ -1,5 +1,5 @@
 # Device Sideloading Android
-Final Project in CS10
+Final Project in CS Courses
 
 **UNDERCONSTRUCTION**: review multiple ReadMe Files and Test
 
